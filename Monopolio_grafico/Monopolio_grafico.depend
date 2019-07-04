@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1561473891 source:/home/cristian/Desktop/Monopolio_grafico/main.cpp
+	<iostream>
+	"Juego.h"
+
+1561475544 /home/cristian/Desktop/Monopolio_grafico/include/Juego.h
+	<SFML/Graphics.hpp>
+
+1561474803 source:/home/cristian/Desktop/Monopolio_grafico/src/Juego.cpp
+	"Juego.h"
+
+1561980725 source:c:\users\cristian\desktop\monopolio_grafico\main.cpp
+	<iostream>
+	"Juego.h"
+
+1562192495 c:\users\cristian\desktop\monopolio_grafico\include\juego.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<vector>
+	"dado.h"
+	"tablero.h"
+	"jugador.h"
+
+1562195349 source:c:\users\cristian\desktop\monopolio_grafico\src\juego.cpp
+	"Juego.h"
+
+1562195349 c:\users\cristian\desktop\monopolio_grafico\include\dado.h
+	"SFML/Graphics.hpp"
+	<random>
+
+1561969999 c:\users\cristian\desktop\monopolio_grafico\include\tablero.h
+	"casilla.h"
+	<deque>
+	"accion.h"
+
+1561969998 c:\users\cristian\desktop\monopolio_grafico\include\casilla.h
+	<string>
+
+1561969998 c:\users\cristian\desktop\monopolio_grafico\include\accion.h
+	<string>
+	"casilla.h"
+	<vector>
+
+1561969998 source:c:\users\cristian\desktop\monopolio_grafico\src\accion.cpp
+	"accion.h"
+	"jugador.h"
+	"tablero.h"
+	"comprables.h"
+	<iostream>
+
+1562018895 c:\users\cristian\desktop\monopolio_grafico\include\jugador.h
+	"SFML/Graphics.hpp"
+	<string>
+	<vector>
+	"casilla.h"
+	"dado.h"
+	"comprables.h"
+	"juego.h"
+
+1561969999 c:\users\cristian\desktop\monopolio_grafico\include\comprables.h
+	<string>
+	"casilla.h"
+
+1561969998 source:c:\users\cristian\desktop\monopolio_grafico\src\casilla.cpp
+
+1561969999 source:c:\users\cristian\desktop\monopolio_grafico\src\comprables.cpp
+	<iostream>
+	"comprables.h"
+	"jugador.h"
+	"tablero.h"
+
+1562195349 source:c:\users\cristian\desktop\monopolio_grafico\src\dado.cpp
+	<iostream>
+	"dado.h"
+	<random>
+
+1562018911 source:c:\users\cristian\desktop\monopolio_grafico\src\jugador.cpp
+	<iostream>
+	"jugador.h"
+	"comprables.h"
+	<algorithm>
+	<numeric>
+
+1561969999 source:c:\users\cristian\desktop\monopolio_grafico\src\tablero.cpp
+	<iostream>
+	<ctime>
+	"tablero.h"
+	"comprables.h"
+	"accion.h"
+
